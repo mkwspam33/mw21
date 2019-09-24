@@ -53,15 +53,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>matt.wilkofsky@snc</sys_created_by>
         <sys_created_on>2019-09-24 18:00:59</sys_created_on>
-        <sys_id>65d36dd6dbc000105dc970f5bf961903</sys_id>
+        <sys_id>61762d9adbc0001068849474db961915</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>sn_mw21_cmdb2</sys_name>
         <sys_package display_value="mw21" source="sn_mw21">e4a3a5d6dbc000105dc970f5bf961963</sys_package>
         <sys_policy/>
         <sys_scope display_value="mw21">e4a3a5d6dbc000105dc970f5bf961963</sys_scope>
-        <sys_update_name>sys_dictionary_sn_mw21_cmdb2_null</sys_update_name>
+        <sys_update_name>sys_dictionary_sn_mw21_cmdb2_NULL</sys_update_name>
         <sys_updated_by>matt.wilkofsky@snc</sys_updated_by>
-        <sys_updated_on>2019-09-24 18:00:59</sys_updated_on>
+        <sys_updated_on>2019-09-24 18:12:29</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

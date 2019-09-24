@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="XYZ" max_length="40" name="sn_mw21_xyz" type="collection">
-        <element label="Alt" max_length="40" name="alt" type="string"/>
-    </element>
-</database>
