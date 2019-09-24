@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>sn_mw21.xyz_user</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>xyz_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>matt.wilkofsky@snc</sys_created_by>
+        <sys_created_on>2019-09-24 18:07:05</sys_created_on>
+        <sys_id>f635619adbc000105dc970f5bf9619c0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_mw21.xyz_user</sys_name>
+        <sys_package display_value="mw21" source="sn_mw21">e4a3a5d6dbc000105dc970f5bf961963</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="mw21">e4a3a5d6dbc000105dc970f5bf961963</sys_scope>
+        <sys_update_name>sys_user_role_f635619adbc000105dc970f5bf9619c0</sys_update_name>
+        <sys_updated_by>matt.wilkofsky@snc</sys_updated_by>
+        <sys_updated_on>2019-09-24 18:07:05</sys_updated_on>
+    </sys_user_role>
+</record_update>
